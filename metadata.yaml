@@ -1,0 +1,31 @@
+_repo: From-the-Memoirs-of-a-Minister-of-France_2079
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: Cover; Front matter; Title page; Copyright page; Body matter; Chapter
+  I; Chapter II; Chapter III; Chapter IV; Chapter V; Chapter VI; Chapter VII; Chapter
+  VIII; Chapter IX; Chapter X; Chapter XI; Chapter XII.
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2079'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biographical fiction'
+- !lcsh 'Henry IV, King of France, 1553-1610 -- Fiction'
+- !lcsh 'France -- Kings and rulers -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: From the Memoirs of a Minister of France
+url: http://www.gutenberg.org/ebooks/2079
